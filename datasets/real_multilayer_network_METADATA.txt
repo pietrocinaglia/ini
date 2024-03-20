@@ -1,0 +1,13 @@
+[Layer 1] Disease-Disease (intralayer:1)
+
+- Disease-Drug (interlayer:12)
+
+[Layer 2] Drug-Drug (intralayer:2)
+
+- Drug-Protein (interlayer:23)
+
+[Layer 3] Protein-Protein (intralayer:3)
+
+-  (interlayer:0) => Disease-Protein ??
+
+
